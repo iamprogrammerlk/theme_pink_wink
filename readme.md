@@ -3,16 +3,25 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+  <a href="https://iamprogrammer.lk/theme_pink_wink">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
   </a>
 </div>
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Pink Wink (Theme by I am Programmer)
 
-{{PROJECT_DESCRIPTION}}
+_Theme for Chromium-based Web Browsers_
+
+Add a touch of sweetness with Pink Wink. This cheerful, lively theme turns your browser into a fun and friendly space
+filled with vibrant pink tones. Crafted for Google Chrome and other Chromium-based web browsers, it’s ideal for anyone
+who loves personality, positivity, and a little bit of flair.
+
+Transform your browsing experience today with this beautiful theme, where minimalism meets elegance. With this
+beautifully designed theme, you can enjoy a more pleasant and productive digital journey.
+
+📢 Feel free to leave feedback 📢
 
 > [!TIP]
 >
@@ -199,7 +208,7 @@ See [license][license_md] for more information.
 
 ---
 
-[chromewebstore]: https://chromewebstore.google.com/detail/{{CHROME_EXTENSION_ID}}
+[chromewebstore]: https://chromewebstore.google.com/detail/ijjlnpckokiomhfmekldgcejhampgpih
 [releases]: /../../releases
 [extensions]: chrome://extensions
 [chrome]: https://www.google.com/chrome/
